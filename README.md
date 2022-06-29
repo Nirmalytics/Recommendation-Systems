@@ -14,3 +14,4 @@ In this project , I am using ##Movielens - 100K Dataset and Sérendipité datase
 2. User Based Collaborative Filtering
 3. Item Based Collaborative Filtering
 4. Matrix Factorization Based Collaborative Filtering
+5. Association Rule mining for a SuperMarket
